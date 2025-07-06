@@ -51,7 +51,7 @@ This project is my first step in applying what I’ve learned from The Odin Proj
 ## 📬 Contact
 
 Feel free to connect or follow my journey:  
-📧 phamcongmanh03@gmail.com  
+📧 [ Subject to change ]
 📍 Ho Chi Minh City, Vietnam
 
 —
