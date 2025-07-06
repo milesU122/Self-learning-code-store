@@ -1,6 +1,6 @@
 # Self-Learning Code Store – Personal Practice Projects
 
-This repository contains my personal learning projects during my journey to become a Full Stack Developer. I come from a non-technical background (English major) and am actively building programming skills through project-based learning.
+This repository contains my personal learning projects during my journey to become a Full Stack Developer. I come from a non-technical background (English major) and slow but surely omw building programming skills through project-based learning.
 ---
 
 ## 🎯 Short-Term Goals
