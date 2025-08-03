@@ -16,7 +16,7 @@ This repository contains my personal learning projects during my journey to beco
 ## 🚀 Long-Term Goals
 
 - Graduate with an Associate Degree in Software Engineering (Viet My College)
-- Continue studying at Phu Xuan University (Bachelor’s degree)
+- Continue studying on University (Bachelor’s degree)
 - Complete the full curriculum of The Odin Project
 - Contribute to open-source or internship-level software projects
 
