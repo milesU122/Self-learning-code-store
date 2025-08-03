@@ -31,14 +31,3 @@ This repository contains my personal learning projects during my journey to beco
 | Database    | MongoDB, MySQL (basic), Firebase (explore)  |
 | Tools       | Git, GitHub, VS Code, Linux (Xubuntu), Bash |
 | Deployment  | GitHub Pages (initial), Vercel/Render (future) |
-
----
-
-## 📬 Contact
-
-Feel free to connect or follow my journey:  
-📧 [ Subject to change ]
-📍 Ho Chi Minh City, Vietnam
-
-—
-Thank you for visiting!
